@@ -1,10 +1,11 @@
 # Math club
 
 The current aim of the math club is to discuss the paper by Kryazhimskiy and
-Plotkin, [The Population Genetics of dN/dS][Kryazhimskiy2008] (2008). This
-paper addresses the question of using the dN/dS ratio, developed for the
-comparison of sequences across different species, for analyzing polymorphisms
-observed in a single species.
+Plotkin (2008): **The Population Genetics of dN/dS** (available
+[here][Kryazhimskiy2008]). This paper addresses the validity of studying
+evolutionary pressures on protein coding sequences by calculating the dN/dS
+ratio for polymorphisms observed in a single species, since this ratio was
+initially developed for the comparison of sequences across different species.
 
 The paper is challenging from a theoretical point of view, since we do not have
 the background needed to fully apprehend its content. After discussing
@@ -41,16 +42,15 @@ part. We could use [Etherpad][EtherpadWebsite] to share code between us.
 ## Reference material
 
 The pdf of Kryazhimskiy and Plotkin can be accessed from the [PLoS
-Genetics][Kryazhimskiy2008pdf] website.
+Genetics][Kryazhimskiy2008] website.
 
 A great resource is the book [Theoretical Evolutionary Genetics][FelsensteinTEG] by
 Joseph Felsenstein. The book is unfinished but the draft is available for
 download.
 
 
-## Links
+<!-- Links -->
 
-[Kryazhimskiy2008] http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000304
-[Kryazhimskiy2008pdf] 
-[EtherpadWebsite] http://etherpad.org/
-[FelsensteinTEG] http://evolution.genetics.washington.edu/pgbook/pgbook.html
+[Kryazhimskiy2008]: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000304
+[EtherpadWebsite]: http://etherpad.org/
+[FelsensteinTEG]: http://evolution.genetics.washington.edu/pgbook/pgbook.html
