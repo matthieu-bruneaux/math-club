@@ -1,4 +1,4 @@
-o# Wright-Fisher model, under assumptin of neutrality
+# Wright-Fisher model, under assumptin of neutrality
 
 # Let's consider a population with N haploid individuals.
 # The population size is constant over time (N).
