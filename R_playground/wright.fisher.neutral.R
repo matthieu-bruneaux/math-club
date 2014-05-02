@@ -230,6 +230,31 @@ m$coefficients
 
 
 
+
+x.size = as.integer(10^runif(1000, min = 1, max = 3))
+
+y.time.to.fixation = vector(length = length(x.size))
+
+pb = txtProgressBar(min = 0, max = length(x.size), style = 3)
+
+for (i in 1:length(x.size)) {
+
+  pop = list(N = x.size[i],
+    p = 0.5,
+    q = 0.5)
+
+  y.time.to.fixation[i] = time.to.fixation(pop, 10000)
+
+  setTxtProgressBar(pb, i)
+  
+}
+
+
+
+plot(x.size, y.time.to.fixation, log = "xy")
+
+
+
 # to do
 
 # cf Felsenstein's book
