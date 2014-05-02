@@ -49,8 +49,41 @@ Joseph Felsenstein. The book is unfinished but the draft is available for
 download.
 
 
+
+## How to contribute to this repository
+
+This is a Git repository. Git is a version control tool, the one which was
+introduced during the seminars about reproducible research with R. It is a very
+helpful tool for collaborative authoring and for keeping track of changes in a
+project, but might be a bit intimidating at first. If you want to add something
+to the repository but don't know how to do, ask me or Roland! But if you are
+willing to try to use Git yourself (which is always a good move), you can
+easily copy this repository:
+
+  1. install [Git][GitWebsite] on your machine
+  2. on a Windows machine: open a git bash window in the folder where you want
+     to clone the repository. On a Linux machine: open a terminal and navigate
+     to the desired folder.
+  3. type: `git clone https://github.com/matthieu-bruneaux/math-club.git`
+
+You now have a full copy of the repository with its history on your machine!
+You can add material to it, commit the changes, and send a pull request to
+update the on-line repository.
+
+If you have a GitHub account (which is free), you can be added as a
+collaborator to the repository and you will have read/write access to it
+(i.e. you can push changes without having to request it from me).
+
+Note that you can also download each file or folder manually.
+
+If this format is really not convenient, we can also change to something more
+conventional like Dropbox.
+
+
+
 <!-- Links -->
 
 [Kryazhimskiy2008]: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000304
 [EtherpadWebsite]: http://etherpad.org/
 [FelsensteinTEG]: http://evolution.genetics.washington.edu/pgbook/pgbook.html
+[GitWebsite]: http://git-scm.com/
