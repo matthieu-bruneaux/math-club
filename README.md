@@ -70,6 +70,9 @@ You now have a full copy of the repository with its history on your machine!
 You can add material to it, commit the changes, and send a pull request to
 update the on-line repository.
 
+Here is a nice [crash course on using Git](https://help.github.com/articles/set-up-git),
+and optionally in combination with Github.
+
 If you have a GitHub account (which is free), you can be added as a
 collaborator to the repository and you will have read/write access to it
 (i.e. you can push changes without having to request it from me).
